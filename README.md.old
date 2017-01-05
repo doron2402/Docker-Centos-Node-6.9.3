@@ -1,0 +1,7 @@
+# Centos 7 with Node@6.9.3
+
+## how to run
+```
+  docker build -t centos-node-6.9.3 .
+```
+
